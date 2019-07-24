@@ -1,0 +1,22 @@
+{
+	"name":"devList.json",
+	"url":"http://www.sharelink.tech/cfg/",
+	"max": 100,
+	"dev":[
+		{
+			"idx": 1,
+			"mac":"b4e62df6b831",
+			"nm": "MatrixRelay_001"
+		},
+		{
+			"idx": 2,
+			"mac":"b4e62df6b832",
+			"nm": "MatrixRelay_002"
+		},	
+		{
+			"idx": 3,
+			"mac":"b4e62df6b833",
+			"nm": "MatrixRelay_003"
+		}
+	]
+}
