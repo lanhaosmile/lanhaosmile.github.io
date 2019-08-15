@@ -10,13 +10,8 @@
 		},
 		{
 			"idx": 2,
-			"mac":"b4e62df6b832",
+			"mac":"b4e62df6b831",
 			"nm": "MatrixRelay_002"
-		},	
-		{
-			"idx": 3,
-			"mac":"b4e62df6b833",
-			"nm": "MatrixRelay_003"
 		}
 	]
 }
